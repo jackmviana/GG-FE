@@ -60,3 +60,6 @@ Link - https://www.figma.com/file/tKTW84wPdPHCmd3fPABGUn/GG?node-id=0%3A1&t=V4Hy
 
 - RAWG - https://rawg.io/
 - Flowbites - https://flowbite-react.com/
+- Background video - 
+Stock footage provided by <a class="link author-link-popup" target="_blank" href="https://www.videvo.net/profile/vidfy-A Luna Blue">A Luna Blue</a>,
+downloaded from <a class="videvo-redirect" target="_blank" href="https://www.videvo.net">videvo.net</a>
