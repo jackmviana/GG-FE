@@ -58,5 +58,5 @@ Link - https://www.figma.com/file/tKTW84wPdPHCmd3fPABGUn/GG?node-id=0%3A1&t=V4Hy
 
 ## Sources
 
-- RAWG
-- Flowbites
+- RAWG - https://rawg.io/
+- Flowbites - https://flowbite-react.com/
