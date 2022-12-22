@@ -1,6 +1,6 @@
 ## GG-FE
 
-![image](https://tinypic.host/images/2022/11/30/Screenshot-2022-11-29-at-5.28.54-PM.png)
+![image]()
 
 
 ## Socials
@@ -46,6 +46,7 @@ This site will be built using Django and Python on the backend and React, Javasc
 
 ### Figma
 
+Link - https://www.figma.com/file/lzpsv6ZyDt8E772LDgeeYa/GG?node-id=0%3A1&t=V4Hy6cZmsqQ8vAQl-1
 Link - https://www.figma.com/file/tKTW84wPdPHCmd3fPABGUn/GG?node-id=0%3A1&t=V4Hy6cZmsqQ8vAQl-1
 
 ### Trello Board
